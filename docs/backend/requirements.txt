@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+reportlab>=4.2
+qrcode>=8.0
+firebase-admin>=6.5
+python-dotenv>=1.0
